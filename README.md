@@ -1,4 +1,4 @@
-# Music-Recomendation
+# Music-Recommendation
 Machine learning group project for CPT_S 437.
 ## Introduction
 Recommenders systems are very common in our everyday lives from online shopping to youtube recommendations or spotify recommendations through their song radio feature. 
